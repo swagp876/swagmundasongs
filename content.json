@@ -1,0 +1,112 @@
+{
+  "songs": [
+    {
+      "title": "Noone Can Stop Swag Munda's Try",
+      "audio": "1noone.mp3",
+      "art": "1noone.jpeg"
+    },
+    {
+      "title": "O Mirzeya, Sambhal Ke Langh",
+      "audio": "2mirza.mp3",
+      "art": "2mirza.png"
+    },
+    {
+      "title": "Naa Chalda Swag Da, Soniye",
+      "audio": "3name.mp3",
+      "art": "3name.jpeg"
+    },
+    {
+      "title": "Gallan Goriyan Vich Toye Soniye",
+      "audio": "4galan.mp3",
+      "art": "4galan.jpeg"
+    },
+    {
+      "title": "Gallan Goriyan De Vich Toye Soniye-Remix",
+      "audio": "5galanremix.mp3",
+      "art": "5galanremix.png"
+    },
+    {
+      "title": "Wakhra Swag Soniye",
+      "audio": "6wakhraswag.mp3",
+      "art": "6wakhraswag.png"
+    },
+    {
+      "title": "Tu Agay Agay Jaave Soniye",
+      "audio": "7tuagayagay.mp3",
+      "art": "7tuagayagay.png"
+    },
+    {
+      "title": "Munde Shehar De Wigaad Ditte Soniye",
+      "audio": "8mundesheharde.mp3",
+      "art": "8mundesheharde.jpeg"
+    },
+    {
+      "title": "Dil Tere Utay Aya Soniye",
+      "audio": "9diltereutay.mp3",
+      "art": "9diltereutay.jpeg"
+    },
+    {
+      "title": "Tere Ishq Ch Haareya Ae Dil Soniye",
+      "audio": "10tereishqch.mp3",
+      "art": "10tereishqch.jpeg"
+    },
+    {
+      "title": "Gaane'an Te Nachde Ne Yaar Soniye",
+      "audio": "11gaaneyantenachde.mp3",
+      "art": "11gaaneyantenachde.jpeg"
+    },
+    {
+      "title": "Kol Aa Ja",
+      "audio": "12kolaaja.mp3",
+      "art": "12kolaaja.png"
+    },
+    {
+      "title": "Kanni Koka",
+      "audio": "13kannikoka.mp3",
+      "art": "13kannikoka.jpeg"
+    },
+    {
+      "title": "Poonam Diyan Raatan",
+      "audio": "14poonamdiyan.mp3",
+      "art": "14poonamdiyan.jpeg"
+    },
+    {
+      "title": "Hawawan Wich Udd Day Jahaaz Soniye",
+      "audio": "15hawawanwich.mp3",
+      "art": "15hawawanwich.jpeg"
+    },
+    {
+      "title": "Ishq Tere Kamli Keeta",
+      "audio": "16ishqterekamli.mp3",
+      "art": "16ishqterekamli.png"
+    },
+    {
+      "title": "Nach Le Tu Saade Naal Soniye Ni",
+      "audio": "17nachletu.mp3",
+      "art": "17nachletu.jpeg"
+    },
+    {
+      "title": "Oo Soniye Oo Soniye",
+      "audio": "18oosoniye.mp3",
+      "art": "18oosoniye.jpeg"
+    },
+    {
+      "title": "Tere Naseeb Chh Me Howan",
+      "audio": "19terenaseeb.mp3",
+      "art": "19terenaseeb.jpeg"
+    },
+    {
+      "title": "Saadi Ban Ja Soniye",
+      "audio": "20saadibanja.mp3",
+      "art": "20saadibanja.jpeg"
+    },
+    {
+      "title": "Tera Level Te Wakhra Swag Soniye",
+      "audio": "21teralevel.mp3",
+      "art": "21teralevel.jpeg"
+    }
+  ],
+  "community": [],
+  "learn": [],
+  "market": []
+}
